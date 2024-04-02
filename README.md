@@ -1,8 +1,8 @@
 # Project name
 
-![GitHub repo size](https://img.shields.io/github/repo-size/DevTroli/< Nome Repo >)
-![GitHub stars](https://img.shields.io/github/stars/DevTroli/< Nome Repo >)
-![GitHub forks](https://img.shields.io/github/forks/DevTroli/< Nome repo >?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/DevTroli/myREADME_template)
+![GitHub stars](https://img.shields.io/github/stars/DevTroli/myREADME_template)
+![GitHub forks](https://img.shields.io/github/forks/DevTroli/myREADME_template?style=social)
 
 Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.
 
