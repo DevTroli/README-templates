@@ -1,75 +1,106 @@
-# Project name
+# 📦 [NOME_DO_PROJETO]
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/DevTroli/myREADME_template)
 ![GitHub stars](https://img.shields.io/github/stars/DevTroli/myREADME_template)
 ![GitHub forks](https://img.shields.io/github/forks/DevTroli/myREADME_template?style=social)
 
-Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.
+## 🌟 Visão Geral
+[BREVE_DESCRIÇÃO_DO_PROJETO_EM_2_3_LINHAS]
 
-# Tech Stack
+## ✨ Funcionalidades
+- 🚀 [FUNCIONALIDADE_1]
+  - [SUB_FUNCIONALIDADE_1]
+  - [SUB_FUNCIONALIDADE_2]
+- 📱 [FUNCIONALIDADE_2]
+  - [SUB_FUNCIONALIDADE_1]
+  - [SUB_FUNCIONALIDADE_2]
+- ⚡ [FUNCIONALIDADE_3]
+  - [SUB_FUNCIONALIDADE_1]
+  - [SUB_FUNCIONALIDADE_2]
 
-# Prerequisites
+## 🛠️ Tecnologias
+- [[TECNOLOGIA_1]](LINK_DA_TECNOLOGIA) - [BREVE_DESCRIÇÃO]
+- [[TECNOLOGIA_2]](LINK_DA_TECNOLOGIA) - [BREVE_DESCRIÇÃO]
+- [[TECNOLOGIA_3]](LINK_DA_TECNOLOGIA) - [BREVE_DESCRIÇÃO]
 
-Before you begin, ensure you have met the following requirements:
-* You have installed the latest version of `<coding_language/dependency/requirement_1>`
-* You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
+## 🚀 Instalação
 
-
-## Feautures
-
-This project makes it easy to:
-* Bootstrap your open-source project properly
-* Make sure everyone gets what you're trying to achieve with your project_name
-* Follow simple instructions for a perfect README.md
-
-## Installing <project_name>
-
-To install <project_name>, follow these steps:
-
-Linux and macOS:
-```
-<install_command>
-```
-
-Windows:
-```
-<install_command>
-```
-## Using <project_name>
-
-To use <project_name>, follow these steps:
-
-```
-<usage_example>
+1. Clone o repositório:
+```bash
+git clone https://github.com/[SEU_USERNAME]/[NOME_DO_REPO].git
+cd [NOME_DO_REPO]
 ```
 
-Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
+2. [PASSO_DE_INSTALAÇÃO_2]:
+```bash
+[COMANDO_DE_INSTALAÇÃO]
+```
 
-### Contributing to <project_name>
-<!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
-To contribute to <project_name>, follow these steps:
+3. [PASSO_DE_INICAR_NOVO-AMBIENTE-DEV]:
+```bash
+[COMANDO_DE_INSTALAÇÃO]
+```
 
-1. Fork this repository.
-2. Create a branch: `git checkout -b <branch_name>`.
-3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin <project_name>/<location>`
-5. Create the pull request.
+## 💻 Uso
 
-Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+1. [PASSO_DE_USO_1]:
+```bash
+[COMANDO_1]
+```
 
-### Contributors
+2. [PASSO_DE_USO_2]:
+* [ENDPOINT_1]: [URL_1]
+* [ENDPOINT_2]: [URL_2]
+* [ENDPOINT_3]: [URL_3]
 
-Thanks to the following people who have contributed to this project:
+## 🔌 API Endpoints (SE TIVER)
 
-* [@DevTroli](https://github.com/DevTroli/) 📖
+### [CATEGORIA_1]
+* `[MÉTODO] [ROTA]` - [DESCRIÇÃO]
 
-You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
+### [CATEGORIA_2]
+* `[MÉTODO] [ROTA]` - [DESCRIÇÃO]
+* `[MÉTODO] [ROTA]` - [DESCRIÇÃO]
+* `[MÉTODO] [ROTA]` - [DESCRIÇÃO]
 
-### Contact
+## 🔧 Desenvolvimento
 
-If you want to contact me you can reach me at <your_email@address.com>.
+### Estrutura do Projeto
+```
+[NOME_DO_PROJETO]/
+├── [ARQUIVO_1]    # [DESCRIÇÃO]
+├── [ARQUIVO_2]    # [DESCRIÇÃO]
+├── [ARQUIVO_3]    # [DESCRIÇÃO]
+└── README.md      # Documentação do projeto
+```
 
-### License
-<!--- If you're not sure which open license to use see https://choosealicense.com/--->
+### Variáveis de Ambiente
+Crie um arquivo `.env` na raiz do projeto:
+```env
+[VARIAVEL_1]=[VALOR_1]
+[VARIAVEL_2]=[VALOR_2]
+```
 
-This project uses the following license: [<license_name>](<link>).
+## 🧪 Testes
+[INSTRUÇÕES_DE_TESTE]:
+```bash
+[COMANDO_DE_TESTE]
+```
+
+## 👥 Como Contribuir
+1. Faça um Fork do projeto
+2. Crie sua Feature Branch (`git checkout -b feature/New-Feature`)
+3. Faça commit das suas alterações (`git commit -m 'Add some AmazingFeature'`)
+4. Faça Push para a Branch (`git push origin feature/New-Feature`)
+5. Abra um Pull Request
+
+## 📄 Licença
+Este projeto está sob a licença [TIPO_DE_LICENÇA] - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+
+## 📬 Contato
+If you want to contact me you can reach me at pablotroli@outlook.com
+
+Link do Projeto: https://github.com/[SEU_USERNAME]/[NOME_DO_PROJETO]
+
+---
+⭐️ Feito por [SEU_NOME]
